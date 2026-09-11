@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:11:08Z
+  collectedAt: 2026-09-11T18:36:04Z
 timeline:
   created: 2026-03-14
   lastCommit: 2026-03-25
@@ -85,7 +85,7 @@ total:
   commit: 66
 ---
 path: /home/runner/.x-repo/github.com/caixiaoshun/claudex
-collectedAt: 2026-09-11T06:11:09Z
+collectedAt: 2026-09-11T18:36:05Z
 loc:
   TypeScript:
     code: 7545
