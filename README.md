@@ -4,7 +4,7 @@
 
 Bridge Claude Code to ChatGPT Codex via a local Anthropic-compatible proxy.
 
-[![x-cmd/install — claudex Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claudex.svg)](https://x-cmd.com/install/claudex)
+[![x-cmd/install — claudex Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/claudex.svg)](https://x-cmd.com/install/claudex)
 
 ## Install
 
@@ -41,12 +41,12 @@ Total: **9,321** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 9 | 0 | 0 | 0 | 36 |
-| last720d | 2024-10-02 | 0 | 9 | 0 | 0 | 0 | 66 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 9 | 0 | 0 | 0 | 36 |
+| last720d | 2024-10-03 | 0 | 9 | 0 | 0 | 0 | 66 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for claudex lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:27:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:32:57Z._
