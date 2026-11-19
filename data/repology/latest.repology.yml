@@ -2,8 +2,8 @@
   srcname: claudex
   binname: claudex
   visiblename: claudex
-  version: 0.15.1
-  origversion: 0.15.1-1
+  version: 0.16.1
+  origversion: 0.16.1-1
   status: unique
   summary: Query, search, and analyze Claude Code sessions from the command line (built from source)
   maintainers:
@@ -14,8 +14,8 @@
   srcname: claudex-bin
   binname: claudex-bin
   visiblename: claudex-bin
-  version: 0.15.1
-  origversion: 0.15.1-1
+  version: 0.16.1
+  origversion: 0.16.1-1
   status: unique
   summary: Query, search, and analyze Claude Code sessions from the command line (prebuilt binary)
   maintainers:
